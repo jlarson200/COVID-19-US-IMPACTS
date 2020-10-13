@@ -46,6 +46,7 @@
 ### Employment and Unemployment
 - Using a mixture of BLS API, webscraping with selenium from beta.bls.gov, and using BLS's built in datafinder.
 - *Joe Larson*
+- [BLS Read me](https://docs.google.com/document/d/107VD0MP9Y8vWIqSlsE6lU1imYN2EIfGABkDyNnFrsOQ/edit?usp=sharing)
 - [Colab for Defining Employment in BLS](https://colab.research.google.com/drive/17fNM9f3VWPehbJHCtwCb7jP0d2kpoksl?usp=sharing)
 - [Colab for Defining Unemployment in BLS](https://colab.research.google.com/drive/1WGfhxWrNLSbwfizu2yVaAzuiC2zhJYeY?usp=sharing)
 - [Colab for Extracting Data](https://colab.research.google.com/drive/12rANdvd2rwA7mkIF-yKECb8rFuEvJTxt?usp=sharing)
