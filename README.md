@@ -68,16 +68,16 @@ The team has an interest to learn how to use and follow the data science life cy
 
 ### Joe Larson
 - Education
-  - Penn State
-  - Electrical Engineering 
-  - MBA
-  - Master of Expert Systems
+  - B.S. in Electrical Engineering from Drexel university - Control theory 
+  - M.S. in Expert Systems from Penn State, thesis topic on *AI controlling traffic congestion, small scale* 
+  - MBA from Penn State, thesis topic on *AI controlling traffic congestion, small scale* 
 - Occupation
   - Manager at a GSE
 - Skills
-  - R, Python
+  - Python, SQL, R, Unix, Bash
   - Google Colaboratory
-  - Management
+  - Management, Data Mining, Statical analysis
+
 
 For our team we have split out the research areas/topics and each team member is responsible for acquisition, cleaning, merging (if needed) of data for their topic, and analysis of said data, which all contribute to the final dataset and report. We will also be rotating who is the team facilitator for meetings on a weekly basis.
 
