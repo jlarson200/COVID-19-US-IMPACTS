@@ -46,11 +46,11 @@
 ### Employment and Unemployment
 - Using a mixture of BLS API, webscraping with selenium from beta.bls.gov, and using BLS's built in datafinder.
 - *Joe Larson*
-- [Colab for Defining Employment in BLS](https://colab.research.google.com/drive/17fNM9f3VWPehbJHCtwCb7jP0d2kpoksl?usp=sharing)
-- [Colab for Defining Unemployment in BLS](https://colab.research.google.com/drive/1WGfhxWrNLSbwfizu2yVaAzuiC2zhJYeY?usp=sharing)
-- [Colab for Extracting Data](https://colab.research.google.com/drive/12rANdvd2rwA7mkIF-yKECb8rFuEvJTxt?usp=sharing)
-- [Colab for Converting Data](https://colab.research.google.com/drive/1RW4rUS9QxaAEkITVGtThxRniB3ic2c2L?usp=sharing)
-- [Colab for Merging Data](https://colab.research.google.com/drive/1RW4rUS9QxaAEkITVGtThxRniB3ic2c2L?usp=sharing)
+- [Colab for Defining Employment in BLS](https://colab.research.google.com/drive/1EviXD2azPIfqK1nICF-4-HBV1IXpg2pR?usp=sharing)
+- [Colab for Defining Unemployment in BLS](https://colab.research.google.com/drive/11IGh03OzWOzsMYiZD89WbqNeszSXbIkT?usp=sharing)
+- [Colab for Extracting Data](https://colab.research.google.com/drive/1aZwmx1uaofsKZc8XyJAHzoomPQQ3I34W?usp=sharing)
+- [Colab for Converting and MergingText Data](https://colab.research.google.com/drive/1UNVBvtJUOW_Ck0L1yuMkSF9dmaGTDvJx?usp=sharing)
+- [Colab for Converting and Merging CSV Data](https://colab.research.google.com/drive/1u1zKEdUpBsqdNxw7nn-FngO9lfl1A3iP?usp=sharing)
 
 ### Housing
 - Housing Insecurity from the U.S. Census' Household Pulse Survey, data downloaded directly from website and unzipped into the google drive folder
