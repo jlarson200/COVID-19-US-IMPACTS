@@ -6,10 +6,11 @@
 ---
 # RAW DATASETS
 ## MAIN DATASETS
-### Employment and Unemployment
+### Unemployment
 - Files pulled from BLS.
 - *Joe Larson*
 - [Link](https://drive.google.com/drive/folders/1G8CtuVW_-vminXfllFqchp7HxZY__MOf?usp=sharing)
+- [Link](https://colab.research.google.com/drive/1ZQqYEhwU0HrZ82CGx1u8x1lRokgaljwe#scrollTo=3cJxGyBZWwzW)
 
 ### Housing
 - ????
@@ -29,7 +30,8 @@
 - [Link](https://drive.google.com/drive/folders/1iECY-vzQSwlk8Vqn-4cb86gC2jD01YDf?usp=sharing)
 
 ### Population
-- [Link](https://drive.google.com/drive/folders/1pJGSVfCg-vrLQjgIcwk7N5L7KgJgO23y?usp=sharing)
+- [Link](https://colab.research.google.com/drive/1hKZgHJAyBKEftHuEua5K7vz1RVgxCCB6)
+- [Link](https://colab.research.google.com/drive/1FdcLE7dZGd1g2tEvuMned64QVyr5CPgC#scrollTo=0prwj4gN7R0a)
 
 ## COVARIANT DATASETS
 ### State Policies
@@ -75,7 +77,8 @@
 - *Jenni Bochenek*
 
 ### Population
-- Data from U.S. Census 2019 American Community Survey. JOE Anything to add on how you did it?
+- Population Age Pyramid Data from U.S. Census 2019 American Community Survey. (https://colab.research.google.com/drive/1hKZgHJAyBKEftHuEua5K7vz1RVgxCCB6)
+- Population by State Data from U.S. Census 2019 American Community Survey. (https://drive.google.com/drive/u/0/folders/1Rb5BhiuLslm0kcLzvXYEQHo8mqG03Lc8)
 - *Joe Larson*
 
 ## COVARIANT DATASETS
